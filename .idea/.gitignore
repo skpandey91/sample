@@ -1,0 +1,17 @@
+# Default ignored files
+*.bak
+*.iml
+*.log
+*.swp
+*.tmp
+.classpath
+.factorypath
+.fbExcludeFilterFile
+.idea/
+.project
+.settings
+.springBeans
+application.pid
+application.port
+target/
+sample.iml

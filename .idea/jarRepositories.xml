@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="msnext-snapshots" />
+      <option name="name" value="MS^Next Snapshots repo" />
+      <option name="url" value="https://msnext-master.corp.amdocs.com/artifactory/msnext-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="foundation-releases" />
+      <option name="name" value="Foundation Releases" />
+      <option name="url" value="http://illin3301:28080/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="foundation-snapshots" />
+      <option name="name" value="Foundation Snapshots" />
+      <option name="url" value="http://illin3301:28080/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Foundation Amdocs mirror" />
+      <option name="url" value="https://msnext-master.corp.amdocs.com/artifactory/maven-central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="msnext-releases" />
+      <option name="name" value="msnext-releases" />
+      <option name="url" value="http://illin3301:28080/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="msnext-scratchpad-snapshots" />
+      <option name="name" value="Ms^Next Scratchpad repo" />
+      <option name="url" value="https://msnext-master.corp.amdocs.com/artifactory/msnext-scratchpad" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="foundation releases" />
+      <option name="name" value="Foundation Releases" />
+      <option name="url" value="http://illin3301:28080/nexus/content/repositories/amd-core-fnd-Releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="msnext-releases" />
+      <option name="name" value="MS^Next Release Repository" />
+      <option name="url" value="https://msnext-master.corp.amdocs.com/artifactory/msnext-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Foundation Amdocs mirror" />
+      <option name="url" value="http://illin3301:28080/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="foundation snapshots" />
+      <option name="name" value="Foundation Snapshots" />
+      <option name="url" value="http://illin3301:28080/nexus/content/repositories/amd-core-fnd-Snapshot" />
+    </remote-repository>
+  </component>
+</project>
